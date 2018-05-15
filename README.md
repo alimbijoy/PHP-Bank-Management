@@ -1,2 +1,1 @@
-# PHP-Bank-Management
-PHP Bank Management system
+This is PHP and Mysql Bank Management system.# PHP-Bank-Management
